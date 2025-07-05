@@ -1,3 +1,11 @@
+```mermaid
+
+---
+config:
+  look: neo
+  theme: neo-dark
+---
+
 classDiagram
 class ReprodutorMusical {
 +tocar()
@@ -32,3 +40,5 @@ class ReprodutorMusical {
     ReprodutorMusical <|.. Iphone
     AparelhoTelefonico <|.. Iphone
     NavegadorInternet <|.. Iphone
+```
+
